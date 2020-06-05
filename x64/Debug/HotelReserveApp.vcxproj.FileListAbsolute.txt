@@ -1,0 +1,3 @@
+C:\Users\Vicio\source\repos\HotelReserveApp\HotelReserveApp\x64\Debug\HotelReserveApp.vcxprojAssemblyReference.cache
+C:\Users\Vicio\source\repos\HotelReserveApp\HotelReserveApp\x64\Debug\HotelReserveApp.Hotel Reservation.resources
+C:\Users\Vicio\source\repos\HotelReserveApp\HotelReserveApp\x64\Debug\HotelReserveApp.vcxproj.GenerateResource.cache
