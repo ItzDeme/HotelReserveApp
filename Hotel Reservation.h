@@ -332,7 +332,7 @@ namespace HotelReserveApp {
 		String^ roomSizestr = comboBoxRoomSize->Text;
 
 		//write the information to a text file
-		StreamWriter^ outFile = gcnew StreamWriter("Hotel Reservations.txt");
+		StreamWriter^ outFile = gcnew StreamWriter("Hotel Reservations.txt", true);
 		outFile->Write("Full Name: " + userName + "\r\n");
 		outFile->Write("Number of Guest: " + numberGueststr + "\r\n");
 		outFile->Write("Beginning Date: " + dateBegin + "\r\n");

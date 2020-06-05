@@ -1,5 +1,3 @@
 ﻿  Hotel Reservation.cpp
-  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
-  Generating Code...
   Hotel Reservation.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
   HotelReserveApp.vcxproj -> C:\Users\Vicio\source\repos\HotelReserveApp\x64\Debug\HotelReserveApp.exe
